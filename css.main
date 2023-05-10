@@ -3,7 +3,6 @@
 h1 {
   @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap');
   font-family: 'Orbitron', sans-serif;
-  text-decoration: solid white;
 
 }
 h2 { 
@@ -16,6 +15,12 @@ h3 {
   font-family: 'Leckerli One', cursive;
 
 }
+
+h4 {
+  font-family: 'Fontdiner Swanky', cursive;
+  
+}
+
 p {
   font-family: 'Cabin Sketch', cursive;
   font-family: 'Leckerli One', cursive;
@@ -30,7 +35,6 @@ p {
   @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap');
   font-family: 'Orbitron', sans-serif;
 
-
 }
 .container {
     margin: 50px auto;
@@ -43,22 +47,15 @@ p {
     margin-top: 20px;
     
 }
-
-
 .article {
-  margin-bottom: 200px;
-  width: 500px;
-  text-size-adjust: 100px;
-
+  text-align:center;
+  align-items: center;
+  margin-left: 325px;
+  margin-right: 255px;
 }
 
 .body {
-  font-family: 'Orbitron', sans-serif;
-  text-align: center;
+  font-family:'Orbitron', sans-serif;
+  text-align:center;
   align-items: center;
 }
-
-
-  
-  
-
