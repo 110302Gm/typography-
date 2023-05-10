@@ -1,0 +1,64 @@
+@charset "UTF-8";
+/* CSS Document */
+h1 {
+  @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap');
+  font-family: 'Orbitron', sans-serif;
+  text-decoration: solid white;
+
+}
+h2 { 
+  font-family: 'Cabin Sketch', cursive;
+
+}
+
+h3 {
+  font-family: 'Cabin Sketch', cursive;
+  font-family: 'Leckerli One', cursive;
+
+}
+p {
+  font-family: 'Cabin Sketch', cursive;
+  font-family: 'Leckerli One', cursive;
+  text-transform: none;
+  
+}
+
+.hidden {
+    display: flex;
+}
+@font-face {
+  @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap');
+  font-family: 'Orbitron', sans-serif;
+
+
+}
+.container {
+    margin: 50px auto;
+    width: 900px;
+    height:max-content;
+    border: solid 2px  rgb(164, 220, 164);
+    background:rgb(154, 153, 153);
+    border-radius: 10px;
+    text-align:center;
+    margin-top: 20px;
+    
+}
+
+
+.article {
+  margin-bottom: 200px;
+  width: 500px;
+  text-size-adjust: 100px;
+
+}
+
+.body {
+  font-family: 'Orbitron', sans-serif;
+  text-align: center;
+  align-items: center;
+}
+
+
+  
+  
+
